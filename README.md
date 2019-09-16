@@ -49,7 +49,7 @@ How 2 buy: http://www.amazon.com/gp/product/B00005Q8M0?*Version*=1&*entries*=0
 
 - Hold B for Falcon Punch.
 
-![falconpaunch](http://cdn.smosh.com/sites/default/files/legacy.images/smosh-pit/032011/brawl-double-falcon-punch.gif)
+![falconpaunch](https://media1.giphy.com/media/7Dz198CaJE78A/giphy.gif)
 
 ## Examples
 
